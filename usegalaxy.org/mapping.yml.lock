@@ -165,6 +165,7 @@ tools:
   - 39c21be8f8b9
   - 75e15ba3b4c1
   - a5769923297c
+  - cefa7625d6cb
   - d3f11ae6790c
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -174,6 +175,7 @@ tools:
   - 007990f98551
   - 103538753e81
   - 34d51e66256c
+  - 4cd7884635c2
   - 78c4cef2b5a9
   - a68e128cdb1a
   tool_panel_section_id: mapping
