@@ -166,6 +166,7 @@ tools:
   owner: richard-burhans
   revisions:
   - 371e4e21d5de
+  - 544ea81a6914
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: segalign
@@ -205,18 +206,21 @@ tools:
 - name: ucsc_axtchain
   owner: iuc
   revisions:
+  - 05afdd33dac7
   - ac3bae00a350
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_chainsort
   owner: iuc
   revisions:
+  - c953dbade109
   - fff37ce2d95d
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_chainprenet
   owner: iuc
   revisions:
+  - 7b0b810b495f
   - fa0a3a618a57
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -229,6 +233,7 @@ tools:
 - name: ucsc_netsyntenic
   owner: iuc
   revisions:
+  - a28010c3ac9b
   - d2039064b27d
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
