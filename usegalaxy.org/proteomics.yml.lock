@@ -132,6 +132,7 @@ tools:
 - name: colabfold_msa
   owner: iuc
   revisions:
+  - 6fbd935575ce
   - 941f89a0c552
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
@@ -139,5 +140,19 @@ tools:
   owner: iuc
   revisions:
   - 5f7a01f8ea28
+  - 9d65257c56de
+  tool_panel_section_id: proteomics
+  tool_panel_section_label: Proteomics
+- name: fragpipe
+  owner: galaxyp
+  revisions:
+  - da9ebef968bd
+  - ef46866326ef
+  tool_panel_section_id: proteomics
+  tool_panel_section_label: Proteomics
+- name: validate_fasta_database
+  owner: galaxyp
+  revisions:
+  - 9c246c2e24ad
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics

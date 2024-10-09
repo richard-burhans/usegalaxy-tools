@@ -60,3 +60,11 @@ tools:
   owner: iuc
 - name: tooldistillator_summarize
   owner: iuc
+- name: ucsc_maftoaxt
+  owner: iuc
+- name: ucsc_axttomaf
+  owner: iuc
+- name: ucsc_fatovcf
+  owner: iuc
+- name: ucsc_nettoaxt
+  owner: iuc

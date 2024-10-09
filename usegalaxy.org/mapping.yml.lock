@@ -7,6 +7,7 @@ tools:
   owner: iuc
   revisions:
   - 396cc0c65700
+  - 4ad7321205c9
   - 8a7462c0ac14
   - a07a2d9ddd42
   - a287431cdf4f
@@ -115,6 +116,7 @@ tools:
   - 13022c3d3076
   - 178bdbdb6d24
   - 42ce70172b72
+  - 45795f582ae9
   - 5ef7ec16b04f
   - 79b885ce78d7
   - a6fba3d92531
@@ -145,6 +147,7 @@ tools:
   revisions:
   - 3171f7f52576
   - 3f94a2e3d513
+  - 456d8ebb6a28
   - 517464809c33
   - 7f19559b8b55
   - 858a65b52cf9
@@ -159,6 +162,13 @@ tools:
   - cd253831a014
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
+- name: kegalign
+  owner: richard-burhans
+  revisions:
+  - 371e4e21d5de
+  - 544ea81a6914
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
 - name: segalign
   owner: richard-burhans
   revisions:
@@ -167,6 +177,7 @@ tools:
   - 75e15ba3b4c1
   - 860e1f6f3de4
   - d3f11ae6790c
+  - e9bf680c292b
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: batched_lastz
@@ -175,12 +186,14 @@ tools:
   - 007990f98551
   - 103538753e81
   - 1ac663f6a344
+  - 1aee697ec0fc
   - 34d51e66256c
   - 3a67d287d19f
   - 43e72105f473
   - 4cd7884635c2
   - 78c4cef2b5a9
   - a68e128cdb1a
+  - aa5586d83ae3
   - d10e7502aba8
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -188,5 +201,48 @@ tools:
   owner: iuc
   revisions:
   - 35ea4a8b1ea6
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+- name: ucsc_axtchain
+  owner: iuc
+  revisions:
+  - 05afdd33dac7
+  - 54a6fb045aea
+  - ac3bae00a350
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+- name: ucsc_chainsort
+  owner: iuc
+  revisions:
+  - 5815f5bd9ac8
+  - c953dbade109
+  - fff37ce2d95d
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+- name: ucsc_chainprenet
+  owner: iuc
+  revisions:
+  - 7b0b810b495f
+  - fa0a3a618a57
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+- name: ucsc_chainnet
+  owner: iuc
+  revisions:
+  - 3a213e01bc7f
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+- name: ucsc_netsyntenic
+  owner: iuc
+  revisions:
+  - a28010c3ac9b
+  - d2039064b27d
+  tool_panel_section_id: mapping
+  tool_panel_section_label: Mapping
+- name: ucsc_netfilter
+  owner: iuc
+  revisions:
+  - 128ec4c44111
+  - 728e3b913fbe
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
