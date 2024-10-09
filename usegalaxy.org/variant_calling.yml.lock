@@ -254,6 +254,7 @@ tools:
 - name: sniffles
   owner: iuc
   revisions:
+  - 09f5c6f3088a
   - 43fffeed243f
   - 93c4b04a0769
   tool_panel_section_id: variant_calling
