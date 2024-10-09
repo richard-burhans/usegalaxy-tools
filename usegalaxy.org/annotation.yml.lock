@@ -25,6 +25,7 @@ tools:
   revisions:
   - 09855551d713
   - 28433faa6e42
+  - bd0e53f3a891
   - ca6d970d931c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -34,6 +35,7 @@ tools:
   - 6519ebe25019
   - 7be22100e5e1
   - dc027fa56d55
+  - f1e653756174
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: bp_genbank2gff3
@@ -181,6 +183,8 @@ tools:
   owner: iuc
   revisions:
   - 3f6e5c701945
+  - 5f8efb080f49
+  - 8c8299e553ec
   - dddd7ef63469
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -195,6 +199,7 @@ tools:
 - name: ncbi_egapx
   owner: richard-burhans
   revisions:
+  - 3a8a37414e56
   - 7c72d5c7e449
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -492,5 +497,41 @@ tools:
   revisions:
   - 8f20a5b9b282
   - cfec9601b25d
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: isescan
+  owner: iuc
+  revisions:
+  - 9e776e7fab4f
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: plasmidfinder
+  owner: iuc
+  revisions:
+  - 7075b7a5441b
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: integron_finder
+  owner: iuc
+  revisions:
+  - bfd290fe1588
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: bakta
+  owner: iuc
+  revisions:
+  - d77802fe76f7
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: tbl2gff3
+  owner: iuc
+  revisions:
+  - 4a7f4b0cc0a3
+  tool_panel_section_id: annotation
+  tool_panel_section_label: Annotation
+- name: agat
+  owner: bgruening
+  revisions:
+  - e7449b2c14bf
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
