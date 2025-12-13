@@ -1,4 +1,4 @@
-install_repository_dependencies: false
+install_repository_dependencies: true
 install_resolver_dependencies: false
 install_tool_dependencies: false
 tool_panel_section_label: Metagenomic Analysis
@@ -10,6 +10,7 @@ tools:
   - 241a78eb2935
   - 328c607150ff
   - 4a9da2b6c2e3
+  - cbe396d9773e
   - cdee7158adf3
   - e150ae930235
   - e674066930b2
@@ -25,6 +26,7 @@ tools:
   - 62c9df8382c2
   - 64be1ac21109
   - 8b8a3f793f0f
+  - 9553180705b7
   - e8ac2b53f262
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -509,6 +511,7 @@ tools:
   - 1a037928504c
   - 1a6cdf55390f
   - 289b3807e80c
+  - 56ff60ec416d
   - 740fd2d16a28
   - b6897977d13e
   - ec368db926f4
@@ -705,6 +708,7 @@ tools:
 - name: gtdbtk_classify_wf
   owner: iuc
   revisions:
+  - 28bc8c01b193
   - 30a4bdf88e14
   - 4d9445dff47b
   - 53691cc6af0f
@@ -812,6 +816,7 @@ tools:
   - 3481feabc54e
   - 5029fd9d572e
   - 738474880da8
+  - 9b3e1acc3ad0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mapseq
@@ -837,6 +842,7 @@ tools:
   owner: iuc
   revisions:
   - 99ff9221182c
+  - afee33334a63
   - b5a7583b8db0
   - fdb13ee4be38
   tool_panel_section_id: metagenomic_analysis
@@ -877,6 +883,7 @@ tools:
   - 15dba9749732
   - 1d97ddbc3464
   - 7834132949bc
+  - 9053a39d7994
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: drep_compare
@@ -959,6 +966,13 @@ tools:
   owner: iuc
   revisions:
   - b0dbddc7a288
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: cami_amber_convert
+  owner: iuc
+  revisions:
+  - 848594e0be6a
+  - fac3911ad3b6
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: cami_amber_convert
