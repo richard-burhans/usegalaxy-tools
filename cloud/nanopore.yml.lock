@@ -49,6 +49,7 @@ tools:
   revisions:
   - 025139097795
   - 2a9afed42353
+  - 9eab750c367d
   - a38bdcec9e4c
   - edbb6c5028f5
   tool_panel_section_id: nanopore
