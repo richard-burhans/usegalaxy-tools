@@ -1,4 +1,4 @@
-install_repository_dependencies: false
+install_repository_dependencies: true
 install_resolver_dependencies: false
 install_tool_dependencies: false
 tool_panel_section_label: Machine Learning
@@ -7,6 +7,7 @@ tools:
   owner: goeckslab
   revisions:
   - c5150cceab47
+  - ccbcc012d78d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: tabular_learner
@@ -17,6 +18,7 @@ tools:
   - 209b663a4f62
   - 4bd75b45a7a1
   - ba45bc057d70
+  - e82fd7fe796b
   - f6a65e05d6ec
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -40,6 +42,7 @@ tools:
   - e2a6fed32d54
   - e674b9e946fb
   - f4cb41f458fd
+  - f5b713d70f1a
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: model_prediction
