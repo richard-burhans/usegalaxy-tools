@@ -289,6 +289,7 @@ tools:
   - 29151e779524
   - 76d4cbefff85
   - a315c25dc813
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -318,6 +319,7 @@ tools:
   owner: iuc
   revisions:
   - 01210c4e9144
+  - 0bace381c9fd
   - 3169a38c2656
   - 460fad600dce
   - b2f674562a18
@@ -358,6 +360,7 @@ tools:
   - 511e5e3cd55e
   - 79b48f02db49
   - 8fef980d48b5
+  - 9c942221e135
   - c6cec5ab35c1
   - dfb8a4497339
   tool_panel_section_id: assembly
@@ -366,6 +369,7 @@ tools:
   owner: iuc
   revisions:
   - 0a10fddd97d2
+  - 0cc7a80463b9
   - 26f2fe7e53a1
   - 44c66e8d21e6
   - 6c571966cfb9
@@ -386,6 +390,7 @@ tools:
   owner: bgruening
   revisions:
   - 0393c0415171
+  - 0fe699ced54f
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -544,6 +549,7 @@ tools:
   owner: iuc
   revisions:
   - bb6774c6aeaf
+  - e893b7452150
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_filter_kmers
@@ -556,12 +562,14 @@ tools:
   owner: iuc
   revisions:
   - c4758f3bf36e
+  - cc8029eca6e9
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_histogram_kmers
   owner: iuc
   revisions:
   - 9a0227fa7521
+  - fa86bf923473
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_print
