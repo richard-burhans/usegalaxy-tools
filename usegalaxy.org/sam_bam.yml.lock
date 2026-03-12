@@ -124,6 +124,7 @@ tools:
   - 47035d167365
   - 541082d03bef
   - 57934e90e27c
+  - 8fca6e1eac98
   - e221fe58c2f5
   - fed4aa48ba09
   tool_panel_section_id: sam_bam
@@ -223,6 +224,7 @@ tools:
   revisions:
   - 108db6635177
   - 1dfd95ee241e
+  - 47db0f26ca31
   - 4fe8a75334c8
   - 62e4d6cdbaa7
   - 993b19f20c76
@@ -287,6 +289,7 @@ tools:
   - 41e36c99a008
   - 595ae1ba934a
   - 68a116f469db
+  - 84819580b8a5
   - bc0cc7bfbfe9
   - c05afbeaf42d
   - d2df79922531
@@ -306,6 +309,7 @@ tools:
   - b5527cc104ab
   - ce32171c6d44
   - d0a568e1904b
+  - ef678e1f70a2
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_merge
