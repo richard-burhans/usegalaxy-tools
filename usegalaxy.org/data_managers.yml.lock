@@ -85,6 +85,7 @@ tools:
 - name: data_manager_snpeff
   owner: iuc
   revisions:
+  - c3cdca7f40a2
   - def511e8e005
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
@@ -115,6 +116,7 @@ tools:
   - 13851aefa67a
   - 1e34d2e3d285
   - 201eff2131d6
+  - 4877dfefaacc
   - 539b008cfe1c
   - 54871a78828e
   - 8c533e19b697
@@ -169,5 +171,6 @@ tools:
   owner: ufz
   revisions:
   - 39dc692a9554
+  - 4cc25c2b1d0b
   tool_panel_section_id: data_managers
   tool_panel_section_label: Data Managers
