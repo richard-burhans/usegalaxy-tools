@@ -48,3 +48,5 @@ tools:
   owner: iuc
 - name: shovill
   owner: iuc
+- name: teloscope
+  owner: iuc
