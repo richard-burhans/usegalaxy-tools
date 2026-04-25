@@ -20,6 +20,7 @@ tools:
   owner: bgruening
   revisions:
   - 0cdcf7e99b62
+  - 1196fc76fdc2
   - 1e3323a44643
   - 20d92dc4c6cb
   - 54f751e413f4
@@ -744,6 +745,7 @@ tools:
   - 7209f32a9e9d
   - 97b1540b4830
   - c30adf839acd
+  - ed4c007af906
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: das_tool
