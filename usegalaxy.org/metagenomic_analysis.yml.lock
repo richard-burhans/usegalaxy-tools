@@ -20,6 +20,7 @@ tools:
   owner: bgruening
   revisions:
   - 0cdcf7e99b62
+  - 1196fc76fdc2
   - 1e3323a44643
   - 20d92dc4c6cb
   - 54f751e413f4
@@ -612,6 +613,7 @@ tools:
 - name: metabat2
   owner: iuc
   revisions:
+  - a040f2dc705c
   - eb50e7eca3dc
   - f375b4f6ef57
   tool_panel_section_id: metagenomic_analysis
