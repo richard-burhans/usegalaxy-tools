@@ -103,6 +103,7 @@ tools:
   - 9301df6f892d
   - a54b3bac44aa
   - afe044e6bc93
+  - b26b87f5a13c
   - ee98d611afc6
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
