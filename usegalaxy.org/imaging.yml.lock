@@ -815,12 +815,14 @@ tools:
   owner: ufz
   revisions:
   - 4dcbcd213ee3
+  - 6a13fe2fa921
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_roi_import
   owner: ufz
   revisions:
   - 44bd8be2c495
+  - 8da603b949c1
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: omero_dataset_to_plate
