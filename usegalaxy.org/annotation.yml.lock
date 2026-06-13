@@ -9,12 +9,14 @@ tools:
   - 111884f0d912
   - 8a22554cdde2
   - bf68eb663bc3
+  - c105b66eaab1
   - eaee459f3d69
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: abricate
   owner: iuc
   revisions:
+  - 31f58ec0459a
   - 3f3e247c053d
   - 4efdca267d51
   - b734db305578
@@ -210,6 +212,7 @@ tools:
   - 099a77735731
   - 0e07bc110728
   - 4f85da43b40c
+  - 8994fea8fbde
   - 91eee66904fe
   - b095c69eab5b
   - b0f07e3d6f07
@@ -543,6 +546,7 @@ tools:
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
+  - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
