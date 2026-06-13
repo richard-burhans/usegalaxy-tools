@@ -12,6 +12,7 @@ tools:
   - 375c36923da1
   - 499a039871d0
   - 871957823d0c
+  - 9649a6aa6997
   - 975512caae22
   - a48e750cfd25
   - a5404f55ee6a
@@ -50,6 +51,7 @@ tools:
   - e7dd78077b72
   - e82fd7fe796b
   - edd515746388
+  - efe3a2d3a31d
   - f6a65e05d6ec
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -185,6 +187,7 @@ tools:
   owner: bgruening
   revisions:
   - 07843f917990
+  - 0a43c856e1d8
   - 30d21a6041f6
   - 3881482e568e
   - 5a125d1ac9b9
@@ -208,6 +211,7 @@ tools:
   - 5d5d9cc554f9
   - 61e76fb65daf
   - 65f18ab91132
+  - 7e5631773cea
   - 805194c3cdfb
   - 845dfafac355
   - 887e0aaa482e
@@ -223,6 +227,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 61461e52c923
   - 6d23883e0b94
   - 73d2ef652879
@@ -241,6 +246,7 @@ tools:
   - 04b160a26690
   - 0f460421b212
   - 1fe020b2108f
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 7c2e71e4acf3
   - 86c5b627ddb6
@@ -269,6 +275,7 @@ tools:
   - d37a7f17e35d
   - e5a5ad882f1f
   - f0d2e8a3c575
+  - f484f41ea0dd
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_build_pipeline
@@ -345,6 +352,7 @@ tools:
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
+  - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
   - 1682df52c084
@@ -392,6 +400,7 @@ tools:
   - 826c3e68e7a9
   - a5c2ce4ea328
   - add3c3a7c2b4
+  - dde13d557dc4
   - eb9da067ab26
   - f2234165a453
   tool_panel_section_id: machine_learning
@@ -540,6 +549,7 @@ tools:
   revisions:
   - 05143043ca13
   - 1588f9076e32
+  - 1d2a478bb514
   - 21730620a849
   - 222c02df5d55
   - 4a229a7ad638
@@ -584,6 +594,7 @@ tools:
   revisions:
   - 0af678661e20
   - 2af1346e68c9
+  - 31f6bf2382dc
   - 470aed90aa41
   - 6ecb3d77d46e
   - 818f9b69d8a0
