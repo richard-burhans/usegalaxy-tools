@@ -232,6 +232,7 @@ tools:
 - name: dada2_removebimeradenovo
   owner: iuc
   revisions:
+  - 0a13d449d1bf
   - 4efeb75704c8
   - 6bd7c48ff6ed
   - efe26de231ec
@@ -248,6 +249,7 @@ tools:
 - name: dada2_assigntaxonomyaddspecies
   owner: iuc
   revisions:
+  - 60cd35f37c0a
   - 705d26fbea02
   - 9f306361a58e
   - ce4bfce70e64
