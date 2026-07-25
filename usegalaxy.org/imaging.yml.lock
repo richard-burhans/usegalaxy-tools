@@ -432,6 +432,7 @@ tools:
   owner: imgteam
   revisions:
   - 5f5b7185bc16
+  - efbe484bc683
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_create_image
@@ -443,6 +444,7 @@ tools:
 - name: imagej2_noise
   owner: imgteam
   revisions:
+  - 2b32aaa9a8b1
   - 73cc4e6a741d
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -461,6 +463,7 @@ tools:
 - name: imagej2_bunwarpj_compose_raw
   owner: imgteam
   revisions:
+  - 231ca4c088d9
   - f068e9171af2
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
