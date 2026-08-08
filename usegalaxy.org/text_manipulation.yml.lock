@@ -13,6 +13,7 @@ tools:
   - 61f9ddbc63ca
   - 6595517c2dd8
   - 6e8d94597139
+  - 9bc5cdefb090
   - aff5135563c6
   - be25c075ed54
   tool_panel_section_id: text_manipulation
@@ -103,6 +104,7 @@ tools:
 - name: jq
   owner: iuc
   revisions:
+  - 4e62e523c2b6
   - 5ff75eb1a893
   - 8c505f8f2977
   tool_panel_section_id: text_manipulation
@@ -180,6 +182,7 @@ tools:
 - name: filter_tabular
   owner: iuc
   revisions:
+  - 26fc6cf774d4
   - 34d29339abab
   - 4d5aae46f850
   - 557ec8d7087d
