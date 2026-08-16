@@ -101,6 +101,7 @@ tools:
   owner: goeckslab
   revisions:
   - 73af7d202e2a
+  - baa13bb4cdcc
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: pycaret_compare
@@ -298,6 +299,7 @@ tools:
 - name: flexynesis
   owner: bgruening
   revisions:
+  - 6eb6d8e78d06
   - d1dc88960179
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
