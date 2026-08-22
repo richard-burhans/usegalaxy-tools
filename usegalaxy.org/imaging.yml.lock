@@ -455,6 +455,7 @@ tools:
 - name: imagej2_shadows
   owner: imgteam
   revisions:
+  - ec82bbbeb775
   - f7ae316b00e4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -497,6 +498,7 @@ tools:
 - name: imagej2_smooth
   owner: imgteam
   revisions:
+  - 129f6b7185af
   - c11777ffe5b1
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -515,6 +517,7 @@ tools:
 - name: imagej2_bunwarpj_compare_raw
   owner: imgteam
   revisions:
+  - 2802f5bf9380
   - b0da913f048e
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -539,6 +542,7 @@ tools:
 - name: imagej2_bunwarpj_compose_elastic
   owner: imgteam
   revisions:
+  - 71f2b1e4efa4
   - e781a17b3c14
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -551,12 +555,14 @@ tools:
 - name: imagej2_math
   owner: imgteam
   revisions:
+  - a2e5c70fdfcc
   - d426c25946d4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_elastic_transform
   owner: imgteam
   revisions:
+  - 73b16a95813a
   - f72f8e6787cd
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -793,6 +799,7 @@ tools:
 - name: omero_filter
   owner: ufz
   revisions:
+  - 006d3a69c365
   - 048353b617ba
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

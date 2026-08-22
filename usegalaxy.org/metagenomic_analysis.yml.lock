@@ -28,6 +28,7 @@ tools:
   - 60f307965815
   - 62c9df8382c2
   - 64be1ac21109
+  - 8a203e727140
   - 8b8a3f793f0f
   - 9553180705b7
   - a02aa0dfb850
@@ -168,6 +169,7 @@ tools:
   owner: iuc
   revisions:
   - 21bf2f07f3f3
+  - 775131a4d84b
   - 8dfc90f35aba
   - acd9fe45eb81
   tool_panel_section_id: metagenomic_analysis
@@ -183,6 +185,7 @@ tools:
 - name: cat_contigs
   owner: iuc
   revisions:
+  - 1254b1db9afc
   - 7aebc0137f20
   - c6c77d840993
   - f41dbb0b9ff8
@@ -266,6 +269,7 @@ tools:
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
+  - a6ceb91124fa
   - b6dddf8c2e6f
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
@@ -961,6 +965,7 @@ tools:
   owner: iuc
   revisions:
   - 73b667038f46
+  - c91014de79d2
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: coverm_contig

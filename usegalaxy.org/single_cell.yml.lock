@@ -219,6 +219,7 @@ tools:
 - name: dropletutils
   owner: iuc
   revisions:
+  - 10d928447114
   - 2c1200fba922
   - a9caad671439
   - cdf4443d5625
@@ -233,6 +234,7 @@ tools:
   - 7e014059a88d
   - a4b734cd253b
   - c4f39bf4a068
+  - d2755d6016ca
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_filtnormconf
@@ -759,6 +761,7 @@ tools:
   revisions:
   - 46ed93e8da30
   - 54ee3884e7ca
+  - a9085181e2a8
   - c15978515ff0
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
