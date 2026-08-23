@@ -112,6 +112,7 @@ tools:
 - name: pycaret_predict
   owner: goeckslab
   revisions:
+  - 7363de120cc2
   - b062aa285e75
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
