@@ -269,6 +269,7 @@ tools:
 - name: raceid_trajectory
   owner: iuc
   revisions:
+  - 2581f709c447
   - 2af7c5086a96
   - 2bfd55b87af3
   - 44b935f2271b
@@ -759,6 +760,7 @@ tools:
   revisions:
   - 46ed93e8da30
   - 54ee3884e7ca
+  - a9085181e2a8
   - c15978515ff0
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
