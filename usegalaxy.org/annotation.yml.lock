@@ -217,6 +217,7 @@ tools:
   - 1f5641a52664
   - 31812e7a1315
   - ded48b36f3b7
+  - ef1966bcece3
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: ncbi_egapx
@@ -403,6 +404,7 @@ tools:
 - name: freyja_demix
   owner: iuc
   revisions:
+  - 1980b199b14a
   - 53b22b7dff19
   - 945b31d82638
   - c0a0e79d7196
@@ -415,6 +417,7 @@ tools:
 - name: freyja_aggregate_plot
   owner: iuc
   revisions:
+  - 0035ac597fa7
   - 0ceb9fb0f4ce
   - 1f89eeba299a
   - 3d9253661554
@@ -428,6 +431,7 @@ tools:
   owner: iuc
   revisions:
   - 373c1735d31f
+  - 44c396b0f5e1
   - 9f1660129403
   - cd0484c5f9f1
   - d58a57db7a96
@@ -556,6 +560,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - 2b9b64614d0c
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
@@ -594,6 +599,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 292eea8defa7
   - d77802fe76f7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -637,6 +643,7 @@ tools:
   revisions:
   - 59d308975e63
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   - f2625d1efadd
   tool_panel_section_id: annotation
