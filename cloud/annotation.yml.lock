@@ -17,6 +17,7 @@ tools:
   revisions:
   - 573cfe217474
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: isescan
@@ -64,6 +65,7 @@ tools:
   - 31f58ec0459a
   - 3f3e247c053d
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: busco
@@ -170,6 +172,7 @@ tools:
 - name: teloscope
   owner: iuc
   revisions:
+  - 31f96c801f61
   - 321ceb58023e
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
