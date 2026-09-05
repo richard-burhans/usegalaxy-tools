@@ -19,6 +19,7 @@ tools:
   - a5404f55ee6a
   - a92f200d296e
   - b905deb2f1b4
+  - baa13bb4cdcc
   - dbf05afb8e6c
   - de753cf07008
   - ed2fefc8d892
@@ -33,6 +34,7 @@ tools:
   - 328ff3a13078
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -45,6 +47,7 @@ tools:
   owner: goeckslab
   revisions:
   - 01e7c5481f13
+  - 06ef6f6ebfb1
   - 07acf85d1c6b
   - 0afd970bd8ae
   - 11fdac5affb3
@@ -329,6 +332,7 @@ tools:
   - 1682b64aad9e
   - 226524df8c6c
   - 2a1afd3481ce
+  - 3ff43fbb7ccf
   - 5bd0866dbc7a
   - 7366e5108e9f
   - 7614281473da
@@ -676,6 +680,7 @@ tools:
 - name: flexynesis
   owner: bgruening
   revisions:
+  - 6eb6d8e78d06
   - d1dc88960179
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -703,5 +708,6 @@ tools:
   owner: bgruening
   revisions:
   - 0e86b191f856
+  - 88244f1bdfcf
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning

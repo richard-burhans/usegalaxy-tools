@@ -319,6 +319,7 @@ tools:
   - bdc67eeb0bc9
   - cb681f21e670
   - d80872078a09
+  - f44f646aa172
   - fa65af07ce7d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -408,6 +409,7 @@ tools:
   - 9ef52d95114b
   - a0b1c0bdfa5a
   - b3b3c060962e
+  - b7432d10bd2d
   - d453025d7e5d
   - d68c43202172
   tool_panel_section_id: vcf_bcf
