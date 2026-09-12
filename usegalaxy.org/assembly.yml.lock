@@ -10,6 +10,7 @@ tools:
   - '392811378515'
   - 53dd00a4ab68
   - 54a68f38cf3f
+  - 81bc4c8bcf10
   - 8c2167481e72
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -90,6 +91,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 04d81e5f25e9
   - 05c394313b1c
   - 697c9156dafe
   - 9638ba70882c
@@ -131,6 +133,7 @@ tools:
   - 675ee1aa5952
   - 9e58ff014088
   - a8a278849c18
+  - aa1ac2f7a688
   - e122f9101584
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -165,6 +168,7 @@ tools:
 - name: spades_coronaspades
   owner: iuc
   revisions:
+  - 045c8498d2dd
   - 152ff7d1817a
   - 2cf8a2028ddc
   - 34305b013402
@@ -186,6 +190,7 @@ tools:
   - 7490b213baa9
   - 904bf932cf78
   - a5d68876c44e
+  - afac6d6bd02b
   - c33a476f4001
   - d89ced9439f3
   tool_panel_section_id: assembly
@@ -364,6 +369,7 @@ tools:
   - 02831bf9e95f
   - 0346286a3b0a
   - 056f86469460
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 7087d9a23185
@@ -479,6 +485,7 @@ tools:
   - 608ea80cccba
   - 7a2b37ae4a50
   - 914533f3507e
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -538,6 +545,7 @@ tools:
   - 6cbca5661205
   - 7f71687c8146
   - 81fc1418fbfb
+  - 88926bef8e75
   - ade829d2ae3a
   - c20a07c9237b
   - cfeb5205eacc
@@ -666,6 +674,7 @@ tools:
 - name: teloscope
   owner: iuc
   revisions:
+  - 31f96c801f61
   - 321ceb58023e
   - 6c1cfce7c2eb
   tool_panel_section_id: assembly
@@ -673,6 +682,7 @@ tools:
 - name: fastga
   owner: iuc
   revisions:
+  - 27d750de596d
   - 27f0ed5cbd33
   - 8f821f9b8567
   tool_panel_section_id: assembly

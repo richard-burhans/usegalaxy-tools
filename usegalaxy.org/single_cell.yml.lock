@@ -156,6 +156,7 @@ tools:
   - 3701d29f7105
   - '499059586799'
   - 6f143dfe902a
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - ae1e5d9d8972
@@ -219,6 +220,7 @@ tools:
 - name: dropletutils
   owner: iuc
   revisions:
+  - 10d928447114
   - 2c1200fba922
   - a9caad671439
   - cdf4443d5625
@@ -260,6 +262,7 @@ tools:
   owner: iuc
   revisions:
   - 3478133d0f6f
+  - 42a08854eb66
   - 69018f285aa3
   - 6e90c8adf84f
   - a6821f856a1e
