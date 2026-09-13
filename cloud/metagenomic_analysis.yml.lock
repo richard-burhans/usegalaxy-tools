@@ -9,6 +9,7 @@ tools:
   - 24313e0ff049
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken2
@@ -200,6 +201,7 @@ tools:
 - name: dada2_learnerrors
   owner: iuc
   revisions:
+  - 1fb4fc5e64d6
   - 68129ce1c59b
   - a14a18a47c36
   - dd6572434618
@@ -210,6 +212,7 @@ tools:
   revisions:
   - 47198090501e
   - 89d11e95a9b1
+  - 9010b9e13dec
   - b35a5e8ff0fe
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -256,6 +259,7 @@ tools:
 - name: mash_sketch
   owner: iuc
   revisions:
+  - 9c102da4ca13
   - 9de5319ad2db
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -268,6 +272,7 @@ tools:
 - name: mash_dist
   owner: iuc
   revisions:
+  - 45fb62c28c9b
   - c932095af671
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
