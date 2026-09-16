@@ -192,3 +192,15 @@ tools:
   - 1add611a6018
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
+- name: falco
+  owner: iuc
+  revisions:
+  - 219ffa24f789
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
+- name: seqkit_split2
+  owner: iuc
+  revisions:
+  - 0c7fadfe52e2
+  tool_panel_section_id: fasta_fastq
+  tool_panel_section_label: FASTA/FASTQ
