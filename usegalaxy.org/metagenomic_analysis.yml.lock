@@ -251,6 +251,7 @@ tools:
   - 7c2100246a2f
   - 9f306361a58e
   - ce4bfce70e64
+  - e0aea8e800d7
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_removebimeradenovo
@@ -266,6 +267,7 @@ tools:
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
+  - a6ceb91124fa
   - b6dddf8c2e6f
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
@@ -284,6 +286,7 @@ tools:
   - e8768ddeba32
   - e8fba04706d3
   - f732237754fc
+  - f8b8c95bff89
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: dada2_dada
@@ -297,6 +300,7 @@ tools:
   - 6b4ddc3b64bd
   - 84fd33a60b35
   - 89d11e95a9b1
+  - 9010b9e13dec
   - 96336c6a2bb7
   - b35a5e8ff0fe
   - f79565b12646
@@ -520,6 +524,7 @@ tools:
   revisions:
   - 95bf7479d53c
   - a00df747f03c
+  - a6fd47ecbff8
   - c2803012bbb3
   - fc6c328c292f
   tool_panel_section_id: metagenomic_analysis
@@ -967,6 +972,7 @@ tools:
   owner: iuc
   revisions:
   - 28d740f2c0b0
+  - 66919d81c4d1
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken_biom
@@ -1094,6 +1100,7 @@ tools:
 - name: kegg_pathways_completeness
   owner: iuc
   revisions:
+  - 76ad4572eea4
   - 78990897aa94
   - 9933e2f91584
   tool_panel_section_id: metagenomic_analysis
