@@ -156,6 +156,7 @@ tools:
   - 3701d29f7105
   - '499059586799'
   - 6f143dfe902a
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - ae1e5d9d8972
@@ -759,6 +760,7 @@ tools:
   revisions:
   - 46ed93e8da30
   - 54ee3884e7ca
+  - a9085181e2a8
   - c15978515ff0
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
