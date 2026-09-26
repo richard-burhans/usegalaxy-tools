@@ -156,6 +156,7 @@ tools:
   - 3701d29f7105
   - '499059586799'
   - 6f143dfe902a
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - ae1e5d9d8972
@@ -188,6 +189,7 @@ tools:
   revisions:
   - 3d748954434b
   - 43cb7b5a6fe7
+  - 637e50759b72
   - 7e8c677a7b71
   - 8db95f488f0f
   - 9ef202055d5c
@@ -472,6 +474,7 @@ tools:
   revisions:
   - 04b494623f8e
   - '528052085629'
+  - a8b6292cdffc
   - b0fe3e482cb7
   - c9944a2600f1
   - e32b215b7c04

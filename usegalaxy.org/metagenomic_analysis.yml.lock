@@ -52,6 +52,7 @@ tools:
   owner: iuc
   revisions:
   - 0148e5cf20b2
+  - 9e3206d6c148
   - f9966e11885b
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -339,6 +340,7 @@ tools:
   revisions:
   - 0b884b080bb6
   - 1d75bd0595e2
+  - 2495262244bd
   - 273b8a00c8a2
   - 306a40d4bb8f
   - 35176674168c
@@ -705,6 +707,7 @@ tools:
   - 6a067bbd4e16
   - 87064cb77a52
   - d1c93a32cb25
+  - f09a7ce2f629
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_from_biom
@@ -723,6 +726,7 @@ tools:
   revisions:
   - 2715e89adff4
   - 32f892954ef6
+  - 47fffb4462d8
   - 5007bc8a3d90
   - bbd9d1022144
   - cee4982a717b

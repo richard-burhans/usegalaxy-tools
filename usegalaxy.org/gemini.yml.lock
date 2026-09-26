@@ -40,6 +40,7 @@ tools:
 - name: gemini_interactions
   owner: iuc
   revisions:
+  - 48021eee7e33
   - f745f54638e5
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
