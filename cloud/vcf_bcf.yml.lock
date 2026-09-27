@@ -8,6 +8,7 @@ tools:
   revisions:
   - 8aa352093d73
   - 9a260f6fab93
+  - b75e49f360de
   - d6dc477167f8
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -17,6 +18,7 @@ tools:
   - 672b6c02fbc7
   - 68d04cd5d35a
   - 7b4454382d39
+  - d1ffe13f696e
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_fixploidy
@@ -25,11 +27,13 @@ tools:
   - '365325116147'
   - dd72ff87cfd0
   - f203ea355bc8
+  - f62897ab1008
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_convert_to_vcf
   owner: iuc
   revisions:
+  - 4bbdf586aeff
   - 68736d355615
   - cfd81f17580b
   - fec517907949
@@ -38,6 +42,7 @@ tools:
 - name: bcftools_norm
   owner: iuc
   revisions:
+  - 262d695b5456
   - 271965b55437
   - 5226c31ac6d3
   - 5fa262ce95dd
@@ -146,6 +151,7 @@ tools:
   - 582f8b13873d
   - 69ad30be1a8b
   - a12844ca467a
+  - ecb9cfd7b005
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_fill_tags
@@ -162,11 +168,13 @@ tools:
   - 02f349bdbf96
   - 39bca000353d
   - 3d21f507fc5d
+  - 60e73d60fe1a
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_merge
   owner: iuc
   revisions:
+  - 52f6b7ac3739
   - 5b006286a458
   - d3286f971e89
   - e03f2f3ac3a9
@@ -177,6 +185,7 @@ tools:
   revisions:
   - acfd6984d130
   - b76adb2f1c51
+  - f44f646aa172
   - fa65af07ce7d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -185,12 +194,14 @@ tools:
   revisions:
   - 072f606e2e69
   - 07396b423218
+  - 89be90465e11
   - c277260d3fab
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_view
   owner: iuc
   revisions:
+  - 12c1e7346150
   - 1a2ef636f48e
   - 23680a42e149
   - 2a7d7ee53975
@@ -199,6 +210,7 @@ tools:
 - name: bcftools_filter
   owner: iuc
   revisions:
+  - 1c7dee9f0bf8
   - 3502f0e1f0e4
   - 46fcafba49ec
   - 6ca7c55a27e8
@@ -233,6 +245,7 @@ tools:
   revisions:
   - 1dc6f1ac7f32
   - 31a1b89eab9b
+  - a9f66225bacd
   - c9c5718edc19
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
