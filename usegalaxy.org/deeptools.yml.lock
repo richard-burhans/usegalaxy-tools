@@ -7,6 +7,7 @@ tools:
   owner: bgruening
   revisions:
   - 10301d137111
+  - 43b85f471fe2
   - 6662b1a8d326
   - aac8444d6681
   - c361b12d207a
@@ -22,6 +23,7 @@ tools:
   - 2d2cf5c1ea8a
   - 4df95152a39e
   - 7a7fd0f5f15d
+  - 7dcc58a57476
   - bb1e4f63e0e6
   - c2b4dd18f09d
   - fe7cc56090ea
@@ -35,6 +37,7 @@ tools:
   - 69264da0ce77
   - 7784523d9743
   - aa200e4f3939
+  - c59e0acb4e0b
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_plot_heatmap
@@ -43,6 +46,7 @@ tools:
   - 010e58e9d822
   - 25d830337d31
   - 42cb23d80271
+  - 7fdfac4711b2
   - a4dfb122e52b
   - a7849312d328
   - e4c7985d4585
@@ -54,6 +58,7 @@ tools:
   - 2da482e408b8
   - 4ed32329e0ed
   - b88ebb3672a1
+  - c0893efd5a8f
   - ca8a7f0ea872
   - d57251071381
   tool_panel_section_id: deeptools
@@ -72,6 +77,7 @@ tools:
   owner: bgruening
   revisions:
   - 231994413f89
+  - 3208df1c919e
   - 4e12ea27f788
   - 56bce3c82278
   - 7fda5607e777
@@ -96,6 +102,7 @@ tools:
   - 3c9f0c486cca
   - 459cfa861f0b
   - d9ce4897dbb2
+  - ec28c2928823
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_multi_bam_summary
@@ -103,6 +110,7 @@ tools:
   revisions:
   - 01fb6a7654e6
   - 1fcb7adc39b8
+  - 3d5024351691
   - 69a8621ca2f0
   - 78f405266706
   - b4e53394fced
@@ -121,6 +129,7 @@ tools:
 - name: deeptools_compute_matrix
   owner: bgruening
   revisions:
+  - 1030f37ff2f0
   - 167788df3b46
   - 19bb3e6d9e31
   - 514fa53b5efb
@@ -153,6 +162,7 @@ tools:
   - 3d211717a775
   - 71aa86af6762
   - 7989c6ddf634
+  - dc53544cb243
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_bam_pe_fragmentsize

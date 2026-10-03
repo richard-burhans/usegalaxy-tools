@@ -37,6 +37,7 @@ tools:
   - 26371a1df031
   - 6c19daec423d
   - b12d81af0291
+  - eaa10652acc2
   - f4af63aaf57a
   - fbf98f24097b
   tool_panel_section_id: rna_seq
