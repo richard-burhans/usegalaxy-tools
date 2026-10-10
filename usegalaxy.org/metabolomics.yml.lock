@@ -18,6 +18,7 @@ tools:
 - name: mfassignr_kmdnoise
   owner: recetox
   revisions:
+  - 61287368a95d
   - a7a823839ae3
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -60,6 +61,7 @@ tools:
 - name: mfassignr_recal
   owner: recetox
   revisions:
+  - 91af26deeb98
   - cfcf45ba58be
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -67,6 +69,7 @@ tools:
   owner: recetox
   revisions:
   - 22c80f584bb1
+  - d79690df2e83
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: table_pandas_rename_column
