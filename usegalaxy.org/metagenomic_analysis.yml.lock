@@ -58,6 +58,7 @@ tools:
 - name: vegan_diversity
   owner: iuc
   revisions:
+  - 7a3dbbe68c1a
   - a1b80a746054
   - a2c047a2c380
   tool_panel_section_id: metagenomic_analysis
@@ -73,6 +74,7 @@ tools:
 - name: kraken
   owner: devteam
   revisions:
+  - 407507e321b3
   - 766d5f63b0f4
   - 8ba2174315aa
   - aec58624706f
@@ -81,6 +83,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 7d01da0b9e18
   - e9005d1f3cfd
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -266,6 +269,7 @@ tools:
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
+  - a6ceb91124fa
   - b6dddf8c2e6f
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
@@ -307,6 +311,7 @@ tools:
   revisions:
   - 04c15826a0b8
   - 0776d824d896
+  - 1fb4fc5e64d6
   - 39638e0aff59
   - 5fe3edf19b9c
   - 68129ce1c59b
@@ -330,6 +335,7 @@ tools:
   - 99c6929236fa
   - 9ccec6ed8e82
   - bfd62e881837
+  - d49e0de76bf5
   - e96bbb9e24ea
   - ebd632e95aae
   tool_panel_section_id: metagenomic_analysis
@@ -713,6 +719,7 @@ tools:
   - 04ba1fa0fe57
   - 05e985e0decf
   - 847f433f202b
+  - ac3cb54afbd0
   - b6a38f6222af
   - c0101c72b8af
   - eed716573aba
@@ -967,6 +974,7 @@ tools:
   owner: iuc
   revisions:
   - 28d740f2c0b0
+  - 66919d81c4d1
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken_biom
@@ -1094,6 +1102,7 @@ tools:
 - name: kegg_pathways_completeness
   owner: iuc
   revisions:
+  - 76ad4572eea4
   - 78990897aa94
   - 9933e2f91584
   tool_panel_section_id: metagenomic_analysis
