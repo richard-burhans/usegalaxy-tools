@@ -118,6 +118,7 @@ tools:
 - name: model_prediction
   owner: bgruening
   revisions:
+  - 475b5171945f
   - b6c2289292fa
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -125,11 +126,13 @@ tools:
   owner: bgruening
   revisions:
   - 00d1889e9ecc
+  - 01131463df86
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_builder
   owner: bgruening
   revisions:
+  - beeeda757eba
   - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -257,6 +260,7 @@ tools:
   owner: bgruening
   revisions:
   - 1d2a478bb514
+  - 5f9c0e99016f
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_lightgbm
@@ -275,6 +279,7 @@ tools:
   owner: bgruening
   revisions:
   - 31f6bf2382dc
+  - aeee74692508
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: scipy_sparse
@@ -323,5 +328,11 @@ tools:
   owner: bgruening
   revisions:
   - 0e86b191f856
+  tool_panel_section_id: machine_learning
+  tool_panel_section_label: Machine Learning
+- name: sklearn_label_encoder
+  owner: bgruening
+  revisions:
+  - 549937c7349c
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
