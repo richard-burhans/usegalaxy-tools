@@ -191,11 +191,13 @@ tools:
   - 02c253504d9b
   - 8bb1d9180ce7
   - df49645c6f6d
+  - e69d05d86d79
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_split2
   owner: iuc
   revisions:
+  - 0a429822c6a5
   - 0c7fadfe52e2
   - 22a535d54360
   - 911de3a36b31
@@ -265,6 +267,7 @@ tools:
   owner: bgruening
   revisions:
   - 084bbd8ba7b8
+  - 433db23e1c1d
   - 949f01671246
   - b94789823aad
   - cd7e644cae1d

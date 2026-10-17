@@ -21,6 +21,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -208,6 +209,7 @@ tools:
   - 3f6e5c701945
   - 5f8efb080f49
   - 8c8299e553ec
+  - a3d1bf938fa8
   - dddd7ef63469
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -216,6 +218,7 @@ tools:
   revisions:
   - 1f5641a52664
   - 31812e7a1315
+  - 578b60b1279d
   - ded48b36f3b7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -441,6 +444,7 @@ tools:
   - 52bd683c6d3f
   - 579538ff939d
   - cb0d9eb033ef
+  - ec5826d33185
   - eeb5c054ecf8
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -614,6 +618,7 @@ tools:
 - name: helixer
   owner: genouest
   revisions:
+  - a3586bccb95f
   - c2fc4ac35199
   - cef77c1fe708
   tool_panel_section_id: annotation
@@ -637,6 +642,7 @@ tools:
   revisions:
   - 59d308975e63
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   - f2625d1efadd
   tool_panel_section_id: annotation
@@ -693,6 +699,7 @@ tools:
 - name: orthofinder_onlygroups
   owner: iuc
   revisions:
+  - 27dc25864cb7
   - b6ec80429d54
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
