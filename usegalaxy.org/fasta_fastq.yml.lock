@@ -58,6 +58,7 @@ tools:
   - 350c736075eb
   - 4557b2da9e7f
   - 480ddbd12a03
+  - 4990e6f1348f
   - 65b93b623c77
   - 8276962186f2
   - a626e8c0e1ba
@@ -191,6 +192,7 @@ tools:
   - 02c253504d9b
   - 8bb1d9180ce7
   - df49645c6f6d
+  - e69d05d86d79
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: seqkit_split2
