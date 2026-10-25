@@ -11,6 +11,7 @@ tools:
   - 5cc34c3f440d
   - 66367287b4e6
   - 6945cd53bd2d
+  - 7a6382582d76
   - 8c6cd2650d1f
   - be1d967337e4
   - f54f5baedfdd
@@ -65,6 +66,7 @@ tools:
   - 980d2a2e1180
   - b0f2be869d6d
   - c772497b2c32
+  - d8d32326fbfb
   - de21b616f03a
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -76,6 +78,7 @@ tools:
   - 42ce70172b72
   - 45795f582ae9
   - 79b885ce78d7
+  - 7f694df20f73
   - a00cceb45700
   - eec9494fdafa
   tool_panel_section_id: mapping
