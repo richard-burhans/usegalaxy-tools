@@ -131,6 +131,7 @@ tools:
   - 675ee1aa5952
   - 9e58ff014088
   - a8a278849c18
+  - c6ba8470ed01
   - e122f9101584
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -668,6 +669,7 @@ tools:
   revisions:
   - 321ceb58023e
   - 6c1cfce7c2eb
+  - d0f5d9821854
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: fastga

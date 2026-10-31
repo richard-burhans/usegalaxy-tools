@@ -46,6 +46,7 @@ tools:
 - name: gemini_burden
   owner: iuc
   revisions:
+  - 2adedc87b4b8
   - f0bf88e9e689
   tool_panel_section_id: gemini
   tool_panel_section_label: Gemini
