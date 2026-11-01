@@ -9,6 +9,7 @@ tools:
   - 24313e0ff049
   - 304ac5b49dea
   - 66acaec9f386
+  - fd8ed3767ebb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: kraken2
@@ -248,6 +249,7 @@ tools:
 - name: dada2_assigntaxonomyaddspecies
   owner: iuc
   revisions:
+  - 1b8fda203803
   - 705d26fbea02
   - 9f306361a58e
   - ce4bfce70e64
