@@ -10,12 +10,14 @@ tools:
   - 2d2fe522553d
   - 636b049e6141
   - 7cd7a55a678d
+  - a79662294201
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: mummer_mummerplot
   owner: iuc
   revisions:
   - 029a793f39b6
+  - 0f42cf7485e8
   - 75e15ee43896
   - ebe3b0f84de9
   - fb43e8887350

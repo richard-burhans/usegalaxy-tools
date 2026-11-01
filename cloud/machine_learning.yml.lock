@@ -101,6 +101,7 @@ tools:
   owner: goeckslab
   revisions:
   - 73af7d202e2a
+  - baa13bb4cdcc
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: pycaret_compare
@@ -130,6 +131,7 @@ tools:
 - name: keras_model_builder
   owner: bgruening
   revisions:
+  - ad11e219bd5a
   - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -184,6 +186,7 @@ tools:
 - name: sklearn_nn_classifier
   owner: bgruening
   revisions:
+  - 531513ce17a5
   - 900c42c3eef4
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -268,6 +271,7 @@ tools:
 - name: sklearn_pca
   owner: bgruening
   revisions:
+  - 1728b4a3895e
   - fbf485fc2d30
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -275,6 +279,7 @@ tools:
   owner: bgruening
   revisions:
   - 31f6bf2382dc
+  - efa16475990a
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: scipy_sparse
@@ -304,6 +309,7 @@ tools:
 - name: flexynesis_cbioportal_import
   owner: bgruening
   revisions:
+  - e2e821fefc69
   - e6c626b3013b
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
