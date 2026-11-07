@@ -6,6 +6,7 @@ tools:
 - name: iwtomics_loadandplot
   owner: iuc
   revisions:
+  - 34abac8eb3e7
   - ce633cc8f5f9
   tool_panel_section_id: iwtomics
   tool_panel_section_label: IWTomics

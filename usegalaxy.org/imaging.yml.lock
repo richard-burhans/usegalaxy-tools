@@ -34,6 +34,7 @@ tools:
   owner: imgteam
   revisions:
   - 85edbb7a436b
+  - f0242f99a175
   - fa8ce46a95bb
   - fcadded98e61
   tool_panel_section_id: imaging
@@ -418,6 +419,7 @@ tools:
 - name: imagej2_bunwarpj_compose_raw_elastic
   owner: imgteam
   revisions:
+  - 86886859d876
   - bdc70b34153a
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -443,6 +445,7 @@ tools:
 - name: imagej2_noise
   owner: imgteam
   revisions:
+  - 2b32aaa9a8b1
   - 73cc4e6a741d
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -474,6 +477,7 @@ tools:
   owner: imgteam
   revisions:
   - 4409f9eb9433
+  - 8bc0b21938d6
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_align
@@ -528,6 +532,7 @@ tools:
   owner: imgteam
   revisions:
   - 1cf9771e0e53
+  - ac4aee7dc64c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_sharpen
@@ -539,18 +544,21 @@ tools:
 - name: imagej2_bunwarpj_compose_elastic
   owner: imgteam
   revisions:
+  - 71f2b1e4efa4
   - e781a17b3c14
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_adjust_threshold_binary
   owner: imgteam
   revisions:
+  - 1e1715e2b53d
   - 2b007b1e6c1b
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_math
   owner: imgteam
   revisions:
+  - a2e5c70fdfcc
   - d426c25946d4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -588,6 +596,7 @@ tools:
   owner: imgteam
   revisions:
   - 5da9fe99cf02
+  - 910718d4ce13
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: highdicom_dicom2tiff
@@ -793,6 +802,7 @@ tools:
 - name: omero_filter
   owner: ufz
   revisions:
+  - 006d3a69c365
   - 048353b617ba
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

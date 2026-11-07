@@ -65,6 +65,7 @@ tools:
   revisions:
   - 2dcfbbf9071a
   - 68f57cc8fad0
+  - 6fe60ee81d7a
   - 78fb18899c99
   - b8cdc0507586
   tool_panel_section_id: convert_formats
@@ -238,6 +239,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 28ffaaa5739f
   - 331a50e8fd2f
   - 3cf310697624
@@ -297,6 +299,7 @@ tools:
 - name: ucsc_maftoaxt
   owner: iuc
   revisions:
+  - 3191e6dd3a23
   - 3a4256d4f079
   - a6540beef35f
   - bb486fb0103d
