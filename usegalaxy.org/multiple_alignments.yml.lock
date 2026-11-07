@@ -24,6 +24,7 @@ tools:
   revisions:
   - 1080e07a2233
   - 7adddc6015c1
+  - acb6bbd14094
   - b79f6002b176
   - cfea1d6354db
   tool_panel_section_id: multiple_alignments

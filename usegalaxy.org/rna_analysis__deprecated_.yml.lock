@@ -28,6 +28,7 @@ tools:
   revisions:
   - 6926716bbfb5
   - d080005cffe1
+  - df40fefcc676
   - e04dbae2abe0
   tool_panel_section_id: rna_analysis__deprecated_
   tool_panel_section_label: RNA Analysis (deprecated)
