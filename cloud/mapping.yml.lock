@@ -11,6 +11,7 @@ tools:
   - 5cc34c3f440d
   - 66367287b4e6
   - 6945cd53bd2d
+  - 7a6382582d76
   - 8c6cd2650d1f
   - be1d967337e4
   - f54f5baedfdd
@@ -31,6 +32,7 @@ tools:
   revisions:
   - 1dfc975b48d5
   - 2477830927ec
+  - 2e9f2d3d1b39
   - 3fe632431b68
   - 64f11cf59c6e
   - c598cbb8b019
@@ -76,6 +78,7 @@ tools:
   - 42ce70172b72
   - 45795f582ae9
   - 79b885ce78d7
+  - 9b1940be9da1
   - a00cceb45700
   - eec9494fdafa
   tool_panel_section_id: mapping
@@ -83,6 +86,7 @@ tools:
 - name: bwa_mem2
   owner: iuc
   revisions:
+  - 7febc71de9c3
   - af91699b8d4c
   - bec6ba059ded
   tool_panel_section_id: mapping

@@ -101,6 +101,7 @@ tools:
   owner: goeckslab
   revisions:
   - 73af7d202e2a
+  - baa13bb4cdcc
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: pycaret_compare
@@ -155,6 +156,7 @@ tools:
   owner: bgruening
   revisions:
   - 0a43c856e1d8
+  - aa243478bb94
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_validation
@@ -173,6 +175,7 @@ tools:
   owner: bgruening
   revisions:
   - 6cf2a66c46f1
+  - cb2cfcaf6ba8
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
@@ -215,6 +218,7 @@ tools:
   owner: bgruening
   revisions:
   - c78a5fc9e758
+  - f55053c4a5ec
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_discriminant_classifier
@@ -238,6 +242,7 @@ tools:
 - name: sklearn_train_test_split
   owner: bgruening
   revisions:
+  - e3d00d324fb7
   - e8e5736b632d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -263,6 +268,7 @@ tools:
   owner: bgruening
   revisions:
   - 16c442ecd6bf
+  - 19e086c622db
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_pca
@@ -275,12 +281,14 @@ tools:
   owner: bgruening
   revisions:
   - 31f6bf2382dc
+  - efa16475990a
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: scipy_sparse
   owner: bgruening
   revisions:
   - 602b5fb7ef09
+  - a1478b43a349
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: create_tool_recommendation_model
@@ -311,17 +319,20 @@ tools:
   owner: bgruening
   revisions:
   - 7a1bae3c974a
+  - ef5e601d32bc
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: flexynesis_plot
   owner: bgruening
   revisions:
   - 5f69690716cb
+  - bd20c938f6c4
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: flexynesis_utils
   owner: bgruening
   revisions:
   - 0e86b191f856
+  - efb526b25ff4
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
