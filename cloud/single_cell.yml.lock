@@ -233,6 +233,7 @@ tools:
   owner: iuc
   revisions:
   - 99f912d5af9f
+  - e3a9a42b4605
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scater_filter
