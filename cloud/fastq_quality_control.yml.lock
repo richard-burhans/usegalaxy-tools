@@ -6,6 +6,7 @@ tools:
 - name: multiqc
   owner: iuc
   revisions:
+  - 0559e0711094
   - 1c2db0054039
   - 26ee5e11ecbe
   - 31c42a2c02d3
@@ -14,6 +15,8 @@ tools:
   - 5e33b465d8d5
   - 75c93c70d094
   - 862943c10425
+  - 94b6bea727ae
+  - 97255f6fdf7e
   - 9a913cdee30e
   - a7e081ceb76a
   - abfd8a6544d7
@@ -34,6 +37,7 @@ tools:
   - 3432a0e49b86
   - 350c736075eb
   - 4557b2da9e7f
+  - 4990e6f1348f
   - 65b93b623c77
   - 8276962186f2
   - a626e8c0e1ba
@@ -59,6 +63,7 @@ tools:
 - name: trimmomatic
   owner: pjbriggs
   revisions:
+  - 771554c05a0b
   - b9aaed85cbd1
   - d94aff5ee623
   tool_panel_section_id: fastq_quality_control
