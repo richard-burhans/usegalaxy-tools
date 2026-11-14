@@ -156,6 +156,7 @@ tools:
   - 3701d29f7105
   - '499059586799'
   - 6f143dfe902a
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - ae1e5d9d8972
@@ -264,6 +265,7 @@ tools:
   - 6e90c8adf84f
   - a6821f856a1e
   - c8434a623268
+  - fb7906aa5791
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: raceid_trajectory
@@ -585,6 +587,7 @@ tools:
   revisions:
   - d0f56ac6bb60
   - d1b34ac42b8f
+  - e188e2c2598b
   - fb61eb03e313
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell

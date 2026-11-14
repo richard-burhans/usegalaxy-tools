@@ -7,6 +7,7 @@ tools:
   owner: iuc
   revisions:
   - 020c78e91cc5
+  - 285afb58a631
   - e25ee6bac872
   - f24a9ff28d3c
   tool_panel_section_id: multiple_alignments
@@ -150,6 +151,7 @@ tools:
   - 0c0288a9d92c
   - 13a99f96d6cc
   - 1c65ddbaeefa
+  - 1e273199758f
   - 1e70671a90c6
   - 20bef04b5272
   - 60ed1c94f584
@@ -208,6 +210,7 @@ tools:
 - name: mmseqs2_easy_linclust_clustering
   owner: iuc
   revisions:
+  - 0a60a6d93d3b
   - 1bc9b91a91fd
   - b174c3405549
   tool_panel_section_id: multiple_alignments
