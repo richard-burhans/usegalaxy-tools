@@ -55,6 +55,7 @@ tools:
   revisions:
   - 02a5f43cd5d1
   - 191e43b329f6
+  - 4ba5af45b658
   - 77b41c89d856
   - 8979c288aefb
   - e282bc27be9a
@@ -75,6 +76,7 @@ tools:
   - 297962e79f39
   - 4844c1810c16
   - 4a3e93647a4e
+  - 5e0a8c02887c
   - a64c24430f5e
   - ac3fed111eb6
   tool_panel_section_id: convert_formats
@@ -214,6 +216,7 @@ tools:
   - 3e436657dcd0
   - 4dea02886337
   - 69e0806b63a4
+  - 88fecd593368
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
 - name: compress_file
@@ -306,6 +309,7 @@ tools:
   owner: iuc
   revisions:
   - 31a442afee19
+  - 66c6bc690c0e
   - 8990ed3ff747
   - 92c81e03341c
   - f063c97a7f8f
