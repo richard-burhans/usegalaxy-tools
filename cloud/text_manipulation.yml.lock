@@ -6,6 +6,7 @@ tools:
 - name: filter_tabular
   owner: iuc
   revisions:
+  - 26fc6cf774d4
   - 557ec8d7087d
   - 6544e4b87a4f
   - 90f657745fea
