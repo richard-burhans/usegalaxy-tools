@@ -112,6 +112,7 @@ tools:
 - name: length_and_gc_content
   owner: iuc
   revisions:
+  - 0e7eadbd461c
   - e3ba567abdf5
   - f088370d2a3c
   tool_panel_section_id: fasta_fastq
@@ -147,6 +148,7 @@ tools:
   revisions:
   - 8511b6d85fc7
   - a019807f4e67
+  - c8fb17965c7d
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fasta_filter_by_length
@@ -167,6 +169,7 @@ tools:
   - 058bb29e28ba
   - 37d67c252fed
   - aef1eea2058c
+  - df19b13caeb8
   - f0409baac2cd
   - f109ce5dbfe2
   tool_panel_section_id: fasta_fastq
@@ -190,5 +193,6 @@ tools:
   owner: iuc
   revisions:
   - 1add611a6018
+  - aa95d55b672f
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

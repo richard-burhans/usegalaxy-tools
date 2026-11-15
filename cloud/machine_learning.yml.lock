@@ -37,6 +37,7 @@ tools:
   - 060ca94ac049
   - 0b98933cf0f7
   - 1a53edc4b438
+  - 398c7e90ded2
   - cab63604ca1d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -51,6 +52,7 @@ tools:
   revisions:
   - 0afd970bd8ae
   - 1dfc3ad13f43
+  - 2c0dae52bcca
   - 4bd75b45a7a1
   - 575cb355247c
   - ba45bc057d70
@@ -137,6 +139,7 @@ tools:
   owner: bgruening
   revisions:
   - 3b8fa4ea9727
+  - 3fbbea66522d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_stacking_ensemble_models
@@ -155,6 +158,7 @@ tools:
   owner: bgruening
   revisions:
   - 0a43c856e1d8
+  - aa243478bb94
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_model_validation
@@ -178,6 +182,7 @@ tools:
 - name: sklearn_pairwise_metrics
   owner: bgruening
   revisions:
+  - 383d5372a90d
   - 3ff43fbb7ccf
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -215,6 +220,7 @@ tools:
   owner: bgruening
   revisions:
   - c78a5fc9e758
+  - f55053c4a5ec
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_discriminant_classifier
@@ -257,6 +263,7 @@ tools:
   owner: bgruening
   revisions:
   - 1d2a478bb514
+  - 553b147da4e9
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_lightgbm
@@ -268,6 +275,7 @@ tools:
 - name: sklearn_pca
   owner: bgruening
   revisions:
+  - 1728b4a3895e
   - fbf485fc2d30
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -281,6 +289,7 @@ tools:
   owner: bgruening
   revisions:
   - 602b5fb7ef09
+  - a1478b43a349
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: create_tool_recommendation_model
@@ -298,6 +307,7 @@ tools:
 - name: flexynesis
   owner: bgruening
   revisions:
+  - 09749ea1dabd
   - d1dc88960179
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -311,12 +321,14 @@ tools:
   owner: bgruening
   revisions:
   - 7a1bae3c974a
+  - ef5e601d32bc
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: flexynesis_plot
   owner: bgruening
   revisions:
   - 5f69690716cb
+  - bd20c938f6c4
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: flexynesis_utils
