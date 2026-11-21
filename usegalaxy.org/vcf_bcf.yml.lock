@@ -6,6 +6,7 @@ tools:
 - name: vcffilter
   owner: devteam
   revisions:
+  - 1ce46fc2168a
   - 4bdc111b2470
   - 81972652519c
   - fa24bf0598f4
@@ -21,6 +22,7 @@ tools:
 - name: vcfselectsamples
   owner: devteam
   revisions:
+  - 019656c5fb3d
   - 2ba3b87f904f
   - 958b6484a7f1
   tool_panel_section_id: vcf_bcf
@@ -209,6 +211,7 @@ tools:
   - 3b1b51e1fcba
   - 4eb04768cd49
   - 5fce85148ed1
+  - 623fa53e4208
   - a850902cac64
   - c9c5718edc19
   - e53501abf992
@@ -243,6 +246,7 @@ tools:
   - 8a885a1a92ea
   - 8e01baf41774
   - 95815a0bb307
+  - af15465b9923
   - b7ea370b8f5d
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
@@ -570,6 +574,7 @@ tools:
   - 18cf9de1cf73
   - 242753783b68
   - 2c80b0d6bde0
+  - 42ea0834eacb
   - 77e0bd62b554
   - 8c3ff4ef1190
   - a9826db86d9a

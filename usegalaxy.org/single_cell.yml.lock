@@ -710,6 +710,7 @@ tools:
   owner: iuc
   revisions:
   - 0db84eba4b55
+  - 110994732ae2
   - 51eb02d9b17a
   - b70382a113e1
   tool_panel_section_id: single_cell
@@ -759,6 +760,7 @@ tools:
   revisions:
   - 46ed93e8da30
   - 54ee3884e7ca
+  - 8bde466e6171
   - c15978515ff0
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
