@@ -158,6 +158,7 @@ tools:
   owner: iuc
   revisions:
   - 635c90a27692
+  - a5055c0d190b
   - b16989c1e3a7
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -173,6 +174,7 @@ tools:
   - 10515715c940
   - 15cebddc6dba
   - 1a72f938213e
+  - 28320e68ff9f
   - 3d059e9c2fba
   - a4d83ba2a1bc
   - d3a9e32672ec

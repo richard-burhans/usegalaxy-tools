@@ -443,6 +443,7 @@ tools:
 - name: imagej2_noise
   owner: imgteam
   revisions:
+  - 2b32aaa9a8b1
   - 73cc4e6a741d
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -455,6 +456,7 @@ tools:
 - name: imagej2_shadows
   owner: imgteam
   revisions:
+  - ec82bbbeb775
   - f7ae316b00e4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -503,6 +505,7 @@ tools:
 - name: imagej2_analyze_skeleton
   owner: imgteam
   revisions:
+  - 3f5741e550e9
   - 50f2b961b192
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -534,6 +537,7 @@ tools:
   owner: imgteam
   revisions:
   - 418b1fa32b83
+  - f4e396f032fc
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_bunwarpj_compose_elastic
@@ -545,12 +549,14 @@ tools:
 - name: imagej2_adjust_threshold_binary
   owner: imgteam
   revisions:
+  - 1e1715e2b53d
   - 2b007b1e6c1b
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_math
   owner: imgteam
   revisions:
+  - a2e5c70fdfcc
   - d426c25946d4
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

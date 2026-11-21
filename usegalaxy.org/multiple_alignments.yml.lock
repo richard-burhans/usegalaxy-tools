@@ -126,6 +126,7 @@ tools:
   - 636b049e6141
   - 7cd7a55a678d
   - a18fb4f826fc
+  - a79662294201
   - e18267f90096
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments

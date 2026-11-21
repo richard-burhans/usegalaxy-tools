@@ -11,6 +11,7 @@ tools:
   - 58c35179ebf0
   - 708348a17fa1
   - d6f5fa4ee473
+  - df0082f25f47
   - e827f9aae031
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -38,6 +39,7 @@ tools:
   - 6c19daec423d
   - b12d81af0291
   - f4af63aaf57a
+  - f6ff91cb3120
   - fbf98f24097b
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -51,6 +53,7 @@ tools:
   - 6f66ae7c5f7a
   - 90d16db017d7
   - a37612abf7f9
+  - ce3c9c1ac7ca
   - ce44c6f2ba38
   - ea04b737afa0
   - f3a5f075498f
@@ -62,6 +65,7 @@ tools:
   revisions:
   - 62adf13b86ea
   - 74ec758e63a4
+  - 98fd01004439
   - 9a7c5b6d8f1e
   - 9fd8b69e6e68
   - b47c006d90c5
@@ -358,6 +362,7 @@ tools:
   revisions:
   - 29472bde8854
   - 3064aa8755a0
+  - 3811b9bc43fe
   - 5c1fc038df6b
   - 6723249ce1bd
   - 6f480aee5877
@@ -411,6 +416,7 @@ tools:
   - 2fb4ee002432
   - 56162e446004
   - 75f4e1859ed7
+  - 8322e64b552f
   - 893655fa55f9
   - 983552d5822d
   - b2bbe9a7f1b8
@@ -492,6 +498,7 @@ tools:
   revisions:
   - 05996586c8b3
   - 2b2bfeda00d0
+  - bd21dd94c221
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: chira_extract

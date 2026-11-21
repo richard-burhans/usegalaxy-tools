@@ -6,6 +6,7 @@ tools:
 - name: gemini_annotate
   owner: iuc
   revisions:
+  - 8ed06371fe08
   - cf0f0f05ba9f
   - f2f3bc622a16
   tool_panel_section_id: gemini

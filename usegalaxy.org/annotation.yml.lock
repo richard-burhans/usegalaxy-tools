@@ -250,6 +250,7 @@ tools:
   owner: iuc
   revisions:
   - 15ac71df11a0
+  - 3f12675edf68
   - 78608ec02d62
   - 809e42326fc2
   - 91887494eb97
@@ -705,6 +706,7 @@ tools:
 - name: hmmer_alimask
   owner: iuc
   revisions:
+  - c18dbffbc454
   - e3e5f208e93c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -717,6 +719,7 @@ tools:
 - name: hmmer_hmmbuild
   owner: iuc
   revisions:
+  - 104799b39986
   - 4b996c837ec8
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -742,6 +745,7 @@ tools:
   owner: iuc
   revisions:
   - 4a54e4c9188b
+  - ec70edb4acd4
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: hmmer_hmmsearch
