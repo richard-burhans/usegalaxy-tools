@@ -171,5 +171,6 @@ tools:
   owner: iuc
   revisions:
   - 321ceb58023e
+  - d0f5d9821854
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
