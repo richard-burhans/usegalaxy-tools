@@ -52,6 +52,7 @@ tools:
   - 13cf83ced60c
   - 3701d29f7105
   - 55e35e9203cf
+  - 8f8c0fdd625d
   - 923dcc644832
   - 93dd15e13e6a
   - d0a337ddf062
@@ -183,6 +184,7 @@ tools:
   revisions:
   - 2af7c5086a96
   - 2bfd55b87af3
+  - 51e0736263e4
   - 72979cac22b2
   - c92d0f9338c5
   - fe9bf1aa669e
@@ -195,6 +197,7 @@ tools:
   - a6821f856a1e
   - c8434a623268
   - df8e4e54d367
+  - fb7906aa5791
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: alevin
@@ -203,6 +206,7 @@ tools:
   - 04b494623f8e
   - '528052085629'
   - b0fe3e482cb7
+  - b3aea985597c
   - c9944a2600f1
   - e4c01dcece8b
   tool_panel_section_id: single_cell
@@ -288,6 +292,7 @@ tools:
   - 5b3c1679d29b
   - 64388be6d510
   - 72a6bebab2a5
+  - 8abe1b403a5c
   - 8cb783c81905
   - 92a189c299d4
   - b409c2486353
